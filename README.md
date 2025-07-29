@@ -1,16 +1,62 @@
-# flutter_counter_app
+---
 
-A new Flutter project.
+# Simple Flutter Counter App
 
-## Getting Started
+Just a basic counter app built with Flutter. Tap the button to increase the number!
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 How to Install & Run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 1. Clone this project
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```sh
+git clone https://github.com/FerdiTri/flutter-counter-app.git
+cd flutter-counter-app
+```
+
+### 2. Make sure Flutter is installed
+
+If you don't have Flutter yet, see:  
+[Flutter Setup Guide](https://docs.flutter.dev/get-started/install)
+
+### 3. Get the packages
+
+Run this command to fetch dependencies:
+
+```sh
+flutter pub get
+```
+
+### 4. Run the app
+
+**On Android or iOS:**
+
+```sh
+flutter run
+```
+
+**On Web (browser):**
+
+```sh
+flutter run -d chrome
+```
+
+---
+
+## 💡 What does it do?
+
+Just press the button and watch the counter go up!  
+Great for learning the basics of Flutter.
+
+---
+
+## 📚 Helpful Links
+
+- [Flutter for Beginners](https://docs.flutter.dev/get-started/codelab)
+
+---
+
+That’s it! Happy coding and have fun with Flutter! 🚀
+
+---
