@@ -11,7 +11,7 @@ Just a basic counter app built with Flutter. Tap the button to increase the numb
 ### 1. Clone this project
 
 ```sh
-git clone https://github.com/FerdiTri/flutter-counter-app.git
+git clone https://github.com/ferditri/flutter-counter-app.git
 cd flutter-counter-app
 ```
 
